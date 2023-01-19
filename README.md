@@ -1,1 +1,1 @@
-This is some project on Github accaunt
+This is some project on Github account
